@@ -22,5 +22,5 @@ EXPOSE 4200
 
 # Image command entry point
 ENTRYPOINT ["node"]
-# # Default command
+# Default command
 CMD ["--version"]
