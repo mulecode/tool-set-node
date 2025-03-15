@@ -11,7 +11,7 @@ ENV NG_CLI_ANALYTICS=false
 
 RUN apk update && \
     apk upgrade && \
-    apk add --no-cache chromium=~131 && \
+    apk add --no-cache chromium=~134 && \
     apk add --no-cache make=~4.4 && \
     npm install -g npm@~11.2 && \
     npm install -g @angular/cli@~19 && \
