@@ -1,9 +1,9 @@
 # .snyk
 # https://docs.snyk.io/snyk-cli/commands/ignore
-
-ignore:
-  SNYK-JS-INFLIGHT-6095116:
-    - '*':
-        reason: "Accepted risk"
-        expires: "2025-12-31T23:59:59Z"
+# Example:
+#ignore:
+#  SNYK-JS-INFLIGHT-6095116:
+#    - '*':
+#        reason: "Accepted risk"
+#        expires: "2025-12-31T23:59:59Z"
 
