@@ -5,6 +5,7 @@
 - Bump base image to node 22.14
 - Bumb angular cli version to 19
 - Bumb npm version to 11.2
+- Bump Chromium version to 134
 
 ---
 
